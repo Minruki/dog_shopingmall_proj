@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+#listForm {
+	width: 700px;
+	height: 530px;
+	border: 1px solid hotpink;
+	margin: auto;
+}
+
+h2 {
+	text-align: center;
+}
+
+#regDog{
+	width: 550px;
+	text-align: right;	
+	padding-bottom: 15px;
+	margin: 10px auto;
+}
+ 
+#regDog a{
+	text-decoration: none;
+}
+
+table {
+	margin: 10px auto;
+	/* width: 550px; */
+}
+
+#dogcontent{
+	display: block;
+	text-align: center;
+}
+
+.div_empty {
+	background-color: pink;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+#todayImageList {
+	margin-top: 10px;
+	text-align: center;
+}
+
+#productImage {
+	width: 150px;
+	height: 150px;
+	border: none;
+}
+
+#todayImage {
+	width: 100px;
+	height: 100px;
+	border: none;
+}
